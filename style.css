@@ -19,22 +19,22 @@ h1 {
     padding-bottom: 0.5rem;
     text-align: center;
 }
-#What, #When, #Where {
+.What, .When, .Where {
     width: 80%;
     margin: 0 auto;
     vertical-align: middle;
     
 }
-#WhatImage, #WhenImage, #WhereImage {
+.WhatImage, .WhenImage, .WhereImage {
     width: 15%;
     display: inline-block;
 }
-#WhereImage {
+.WhereImage {
     height: 450px;
     margin-top: auto;
     margin-bottom: auto;
 }
-#map {
+.map {
     display: inline-block;
     margin-left: 2rem;
     margin-right: 2rem;
@@ -46,7 +46,7 @@ p {
     padding-right: 5%;
     text-align: center;
 }
-#gallery {
+.gallery {
     max-width: 100%;
     height: auto;
     padding-top: 1rem;
@@ -54,13 +54,13 @@ p {
     margin: 0;
 }
 
-#gallery img {
+.gallery img {
     width: auto;
     max-height: 200px;
     padding: 0;
     margin: 0;
 }
-#Main {
+.Main {
     max-width: 90%;
     margin-left: auto;
     margin-right: auto;
