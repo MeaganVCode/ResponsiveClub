@@ -26,7 +26,7 @@ h1 {
     
 }
 .WhatImage, .WhenImage, .WhereImage {
-    width: 15%;
+    width: 20%;
     display: inline-block;
 }
 .WhereImage {
@@ -61,7 +61,7 @@ p {
     margin: 0;
 }
 .Main {
-    max-width: 90%;
+    max-width: 100%;
     margin-left: auto;
     margin-right: auto;
 }
